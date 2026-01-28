@@ -1,6 +1,6 @@
 # All Hands on Tech — Scavenger Hunt Repo
 
-This repo contains a **45-minute, beginner-friendly** tech scavenger hunt for teams of 3–4.
+This repo contains a **45-minute, beginner-friendly** tech scavenger hunt for teams of 3–4. DONT PANIC.
 
 ## Quick start (host)
 1. Upload these files to a GitHub repo.
